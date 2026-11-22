@@ -1,0 +1,6 @@
+{
+  "name": "AI Study Buddy – Personal AI Tutor",
+  "description": "An intelligent personal AI tutor for understanding difficult subjects, step-by-step problem solving, real-world examples, and interactive practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
